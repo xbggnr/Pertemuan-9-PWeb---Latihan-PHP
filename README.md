@@ -24,7 +24,7 @@ Sumber latihan dari https://www.petanikode.com/tutorial-php-mysql/
 4. Jalankan perintah beriikut sebagai direktori file-file php yang dibutuhkan di htdocs(Karena saya menggunakan windows) `mkdir C:\xampp\htdocs\pendaftaran-siswa`
 
 5. Buat 8 file php yang diperlukan, ini command untuk powershell `New-Item -ItemType File config.php, index.php, list-siswa.php, form-daftar.php, proses-pendaftaran.php, form-edit.php, proses-edit.php, hapus.php`
-![file php](image-5.png)
+![file php](img/image-5.png)
 
 ### File-file PHP
 
