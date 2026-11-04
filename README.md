@@ -11,15 +11,15 @@ Sumber latihan dari https://www.petanikode.com/tutorial-php-mysql/
 ### Set Up
 
 1. Buat database baru `pendaftaran_siswa`<br>
-![database baru](image.png)<br>
+![database baru](img/image.png)<br>
 
 2. Buat table `calon_siswa`<br>
-![calonsiswa](image-1.png)<br>
-![calonsiswa](image-2.png)<br>
+![calonsiswa](img/image-1.png)<br>
+![calonsiswa](img/image-2.png)<br>
 
 3. Insert table `calon_siswa`<br>
-![insert calon](image-3.png)<br>
-![insert](image-4.png)<br>
+![insert calon](img/image-3.png)<br>
+![insert](img/image-4.png)<br>
 
 4. Jalankan perintah beriikut sebagai direktori file-file php yang dibutuhkan di htdocs(Karena saya menggunakan windows) `mkdir C:\xampp\htdocs\pendaftaran-siswa`
 
@@ -389,25 +389,25 @@ if( isset($_GET['id']) ){
 ### Demo Setiap Page
 
 1. Landing page
-![landing](image-6.png)
+![landing](img/image-6.png)
 
 2. Form Pendaftaran
-![Daftar](image-7.png)
+![Daftar](img/image-7.png)
 
 3. Hasil Pendaftaran(list)
-![Hasil daftar](image-8.png)
+![Hasil daftar](img/image-8.png)
 
 4. Edit Data
-![Edit](image-9.png)
+![Edit](img/image-9.png)
 
 5. Hasil Edit
-![hasil edit](image-10.png)
+![hasil edit](img/image-10.png)
 
 6. Hapus Data (saya hapus data yang sebelumnya ditambahkan)
-![Setelah hapus](image-11.png)
+![Setelah hapus](img/image-11.png)
 
 7. Jika langsung menuju hapus.php
-![alt text](image-12.png)
+![alt text](img/image-12.png)
 
 ## Catatan Akhir
 Untuk konfigurasi php harus disesuaikan dengan perangkat masing masing, saya menggunakan xampp di windows.
